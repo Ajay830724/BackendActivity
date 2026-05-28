@@ -1,0 +1,221 @@
+{
+  "ajay_kumar": {
+    "name": "Ajay Kumar",
+    "username": "ajay_kumar",
+    "followers": 1200,
+    "following": 180,
+    "bio": "Web developer and AI enthusiast 💻",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "likes": 230,
+        "comments": 14
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "likes": 410,
+        "comments": 28
+      }
+    ]
+  },
+
+  "priya_sharma": {
+    "name": "Priya Sharma",
+    "username": "priya_sharma",
+    "followers": 5400,
+    "following": 320,
+    "bio": "Travel blogger ✈️",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "likes": 1200,
+        "comments": 85
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+        "likes": 980,
+        "comments": 63
+      }
+    ]
+  },
+
+  "rohit_verma": {
+    "name": "Rohit Verma",
+    "username": "rohit_verma",
+    "followers": 8900,
+    "following": 500,
+    "bio": "Fitness trainer 💪",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+        "likes": 2100,
+        "comments": 120
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a",
+        "likes": 1750,
+        "comments": 98
+      }
+    ]
+  },
+
+  "neha_singh": {
+    "name": "Neha Singh",
+    "username": "neha_singh",
+    "followers": 4300,
+    "following": 260,
+    "bio": "Food lover 🍕",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        "likes": 870,
+        "comments": 44
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+        "likes": 940,
+        "comments": 51
+      }
+    ]
+  },
+
+  "arjun_mehta": {
+    "name": "Arjun Mehta",
+    "username": "arjun_mehta",
+    "followers": 15000,
+    "following": 410,
+    "bio": "Car enthusiast 🚗",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+        "likes": 3100,
+        "comments": 170
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "likes": 2900,
+        "comments": 155
+      }
+    ]
+  },
+
+  "simran_kaur": {
+    "name": "Simran Kaur",
+    "username": "simran_kaur",
+    "followers": 7200,
+    "following": 390,
+    "bio": "Fashion and lifestyle 🌸",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+        "likes": 1600,
+        "comments": 75
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+        "likes": 1820,
+        "comments": 88
+      }
+    ]
+  },
+
+  "vikas_yadav": {
+    "name": "Vikas Yadav",
+    "username": "vikas_yadav",
+    "followers": 3800,
+    "following": 145,
+    "bio": "Tech reviews and gadgets 📱",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+        "likes": 950,
+        "comments": 39
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661",
+        "likes": 1100,
+        "comments": 46
+      }
+    ]
+  },
+
+  "ananya_gupta": {
+    "name": "Ananya Gupta",
+    "username": "ananya_gupta",
+    "followers": 6400,
+    "following": 275,
+    "bio": "Book reader and writer 📚",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+        "likes": 1400,
+        "comments": 72
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+        "likes": 1300,
+        "comments": 65
+      }
+    ]
+  },
+
+  "rahul_malhotra": {
+    "name": "Rahul Malhotra",
+    "username": "rahul_malhotra",
+    "followers": 9600,
+    "following": 510,
+    "bio": "Gaming content creator 🎮",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420",
+        "likes": 2500,
+        "comments": 140
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+        "likes": 2750,
+        "comments": 152
+      }
+    ]
+  },
+
+  "pooja_jain": {
+    "name": "Pooja Jain",
+    "username": "pooja_jain",
+    "followers": 5100,
+    "following": 205,
+    "bio": "Makeup artist 💄",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f",
+        "likes": 1450,
+        "comments": 70
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+        "likes": 1680,
+        "comments": 81
+      }
+    ]
+  },
+
+  "karan_singh": {
+    "name": "Karan Singh",
+    "username": "karan_singh",
+    "followers": 11200,
+    "following": 340,
+    "bio": "Photographer 📸",
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+        "likes": 3200,
+        "comments": 180
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4",
+        "likes": 2950,
+        "comments": 160
+      }
+    ]
+  }
+}
